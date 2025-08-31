@@ -18,8 +18,8 @@ npm install
 # Run development server
 npm run dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) to view the portfolio.
+If you want to view the portfolio, go to pranavd.vercel.app.
+If you want to clone and make changes do the following:
 
 ## Scripts
 
@@ -28,6 +28,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the portfolio.
 - `npm run start` - Start production server
 - `npm run lint` - Run ESLint
 
+ [http://localhost:3000](http://localhost:3000) to view the portfolio locally.
 ## Project Structure
 
 ```
