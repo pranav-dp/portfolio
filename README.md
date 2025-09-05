@@ -18,7 +18,7 @@ npm install
 # Run development server
 npm run dev
 ```
-If you want to view the portfolio, go to pranavd.vercel.app.
+If you want to view the portfolio, go to [this website](https://pranavd.vercel.app)
 If you want to clone and make changes do the following:
 
 ## Scripts
