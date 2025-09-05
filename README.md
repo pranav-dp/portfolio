@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio Website
 
 A modern portfolio website built with Next.js and TypeScript, featuring smooth animations and interactive components.
 
